@@ -1,0 +1,6 @@
+Recurssion
+when function is called  is called and then after execution
+the command line will go back to the function called
+
+
+ [["good","ok","good"],["ok","bad"],["bad","notsure"],["great","good"]]
