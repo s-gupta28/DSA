@@ -1,29 +1,33 @@
 class Solution {
+private:
+    double helper(double x,long long n ){
+         if(x==0){
+            return 0;
+         }
+         if(n==0){
+            return 1;
+         }
+         double res= helper(x,n/2);
+         //if odd power
+         if(n%2==1){
+            return x*res*res;
+         }
+         else{
+            return res*res;
+         }
+
+    }
 public:
     double myPow(double x, int n) {
-        double ans= 1.0;
-        // n is stored as it's value will be chnaged
-        long long nn=n;
-        if (nn<0){
-            nn=-1*nn;
+        long  long N=n;
+        double res;
+        res=helper(x,abs(N));
+        if(n>=0){
+            return res;
         }
-
-        while(nn!=0){
-            // power is odd
-            if(nn%2==1){
-                ans=ans*x;
-                nn=nn-1;
-
-            }
-            else{
-                x=x*x;
-                nn=nn/2;
-            }
+        else{
+            return 1/res;
         }
-
-        if(n<0){
-            ans= (double)(1.0)/(double)(ans);
-        }
-        return ans;
+        
     }
 };
