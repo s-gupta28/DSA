@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/s-gupta28/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/s-gupta28/DSA/tree/master/0050-powx-n) |
 | [2050-count-good-numbers](https://github.com/s-gupta28/DSA/tree/master/2050-count-good-numbers) |
 ## Array
@@ -31,4 +32,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/s-gupta28/DSA/tree/master/0078-subsets) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/s-gupta28/DSA/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
