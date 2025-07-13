@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/s-gupta28/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0344-reverse-string](https://github.com/s-gupta28/DSA/tree/master/0344-reverse-string) |
 ## String
 |  |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/s-gupta28/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0078-subsets](https://github.com/s-gupta28/DSA/tree/master/0078-subsets) |
 ## Backtracking
 |  |
