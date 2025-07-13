@@ -4,7 +4,6 @@ public:
         if(nums.size()==1){
             return 1;
         }
-        
         int ans=0;
         int str=0;
         int end=1;
@@ -15,8 +14,7 @@ public:
                 index++;
                 str=end;
                 ans++;
-                end++;
-                continue;
+                
             }
             end++;
 
