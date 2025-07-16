@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/s-gupta28/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0078-subsets](https://github.com/s-gupta28/DSA/tree/master/0078-subsets) |
+| [0084-largest-rectangle-in-histogram](https://github.com/s-gupta28/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0268-missing-number](https://github.com/s-gupta28/DSA/tree/master/0268-missing-number) |
 ## Backtracking
 |  |
@@ -55,4 +56,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/s-gupta28/DSA/tree/master/0268-missing-number) |
+## Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/s-gupta28/DSA/tree/master/0084-largest-rectangle-in-histogram) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/s-gupta28/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
