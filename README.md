@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/s-gupta28/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0073-set-matrix-zeroes](https://github.com/s-gupta28/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/s-gupta28/DSA/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/s-gupta28/DSA/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/s-gupta28/DSA/tree/master/0084-largest-rectangle-in-histogram) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/s-gupta28/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0268-missing-number](https://github.com/s-gupta28/DSA/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
@@ -67,4 +69,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/s-gupta28/DSA/tree/master/0084-largest-rectangle-in-histogram) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/s-gupta28/DSA/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
