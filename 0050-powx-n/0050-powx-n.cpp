@@ -14,11 +14,11 @@ public:
                 ans=ans*x;
                 nn=nn-1;
             }
-            else{
+            
                  x=x*x;
                  nn=nn/2;
 
-            }
+            
            
         }
         if(n<0){
