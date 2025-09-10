@@ -20,9 +20,9 @@ public:
     int countGoodNumbers(long long n) {
         long long even=n/2+n%2;
         long long odd=n/2;
-        long long resodd=powN(4,odd);
-        long long reseven=powN(5,even);
-        return (resodd*reseven)%MOD;
+        long long resOdd=powN(4,odd);
+        long long resEven=powN(5,even);
+        return (resOdd*resEven)%MOD;
         
     }
 };
