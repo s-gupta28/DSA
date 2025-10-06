@@ -21,11 +21,11 @@ private:
         while(!stk.empty()){
             root=stk.top();
             stk.pop();
-            if(root->left!=NULL){
-                stk.push(root->left);
+            if( root->right!=NULL){
+                stk.push(root->right);
             }
             if(root->left!=NULL){
-                stk.push(root->right);
+                stk.push(root->left);
             }
             ans.push_back(root->val);
         }
