@@ -87,12 +87,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/s-gupta28/DSA/tree/master/0094-binary-tree-inorder-traversal) |
+| [1005-univalued-binary-tree](https://github.com/s-gupta28/DSA/tree/master/1005-univalued-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/s-gupta28/DSA/tree/master/0094-binary-tree-inorder-traversal) |
+| [1005-univalued-binary-tree](https://github.com/s-gupta28/DSA/tree/master/1005-univalued-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/s-gupta28/DSA/tree/master/0094-binary-tree-inorder-traversal) |
+| [1005-univalued-binary-tree](https://github.com/s-gupta28/DSA/tree/master/1005-univalued-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1005-univalued-binary-tree](https://github.com/s-gupta28/DSA/tree/master/1005-univalued-binary-tree) |
 <!---LeetCode Topics End-->
