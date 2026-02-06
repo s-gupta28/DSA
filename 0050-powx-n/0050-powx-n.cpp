@@ -1,31 +1,27 @@
 class Solution {
-    double powN(double x, long long n){
-        if(n==0){
-            return 1;
-        }
-        if(n%2==0){
-            return powN(x*x,n/2);
-        }
-        else{
-            return x* powN(x,n-1);
-        }
-    }
-    
 public:
     double myPow(double x, int n) {
-        long long nn =n;
-        double ans=1.0;
+        int y=n;
         if(n<0){
-            nn=-1*nn;
+            y=-n;
         }
-        else{
-            nn=n;
+        if(y==0){
+            return 1;
         }
-        ans=powN(x,nn);
+        if(y==1){
+            if(n<0){
+                return (1/x);
+            }
+            return x;
+        }
+        double ans=myPow(x,y/2);
+        ans=ans*ans;
+        if(y%2==1){
+            ans=x*ans;
+        }
         if(n<0){
-            return (1.0/ans);
+            return (1/ans);
         }
         return ans;
-
     }
 };
