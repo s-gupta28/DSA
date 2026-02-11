@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/s-gupta28/DSA/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/s-gupta28/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0268-missing-number](https://github.com/s-gupta28/DSA/tree/master/0268-missing-number) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/s-gupta28/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Backtracking
 |  |
 | ------- |
