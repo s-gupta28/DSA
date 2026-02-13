@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/s-gupta28/DSA/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/s-gupta28/DSA/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/s-gupta28/DSA/tree/master/0084-largest-rectangle-in-histogram) |
+| [0136-single-number](https://github.com/s-gupta28/DSA/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/s-gupta28/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/s-gupta28/DSA/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/s-gupta28/DSA/tree/master/0485-max-consecutive-ones) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/s-gupta28/DSA/tree/master/0078-subsets) |
+| [0136-single-number](https://github.com/s-gupta28/DSA/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/s-gupta28/DSA/tree/master/0268-missing-number) |
 ## Linked List
 |  |
