@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/s-gupta28/DSA/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/s-gupta28/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/s-gupta28/DSA/tree/master/0075-sort-colors) |
+| [0283-move-zeroes](https://github.com/s-gupta28/DSA/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/s-gupta28/DSA/tree/master/0344-reverse-string) |
 ## String
 |  |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/s-gupta28/DSA/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/s-gupta28/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0268-missing-number](https://github.com/s-gupta28/DSA/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/s-gupta28/DSA/tree/master/0283-move-zeroes) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/s-gupta28/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Backtracking
 |  |
