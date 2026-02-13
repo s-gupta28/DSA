@@ -17,9 +17,9 @@ public:
         for(int i=0; i<n; i++){
             if(nums[i]==1){
                 len++;
-            }
-            if(nums[i]!=1 || i==n-1){
                 maxLen=max(len,maxLen);
+            }
+            else{ 
                 len=0;    
             }
             
