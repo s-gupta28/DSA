@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/s-gupta28/DSA/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/s-gupta28/DSA/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/s-gupta28/DSA/tree/master/0084-largest-rectangle-in-histogram) |
+| [0128-longest-consecutive-sequence](https://github.com/s-gupta28/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/s-gupta28/DSA/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/s-gupta28/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/s-gupta28/DSA/tree/master/0283-move-zeroes) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/s-gupta28/DSA/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/s-gupta28/DSA/tree/master/0073-set-matrix-zeroes) |
+| [0128-longest-consecutive-sequence](https://github.com/s-gupta28/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0268-missing-number](https://github.com/s-gupta28/DSA/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
@@ -114,4 +116,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/s-gupta28/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [1005-univalued-binary-tree](https://github.com/s-gupta28/DSA/tree/master/1005-univalued-binary-tree) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/s-gupta28/DSA/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
